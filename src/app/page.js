@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import styles from './page.module.css'
-import Images from '../components/images/images'
+import Images from '../components/images/imagesUpload'
 
 export default function Home() {
   return (
